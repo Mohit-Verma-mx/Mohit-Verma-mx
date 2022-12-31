@@ -2,6 +2,8 @@
 <h3 align="center">I am a Programmer 🧑‍💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohit-verma-mx&label=Profile%20views&color=0e75b6&style=flat" alt="mohit-verma-mx" /> </p>
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" /> </p>
+
 
 - 🌱 I’m currently learning **C , C++ , Python , Javascript.**
 
